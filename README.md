@@ -1,0 +1,2 @@
+# jSweeper
+Minesweeper in jQuery
